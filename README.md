@@ -22,7 +22,7 @@ This project is an interactive 3D visualization of a spinning stellar-mass black
   - Schwarzschild radius (km)
   - Hawking temperature (nK)
 
-The entire experience runs client-side in a single HTML file with an embedded script, using a CDN version of Three.js. fileciteturn1file0
+The entire experience runs client-side in a single HTML file with an embedded script, using a CDN version of Three.js.
 
 ## File structure
 
